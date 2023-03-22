@@ -1,0 +1,18 @@
+.action{  
+    display: inline-flex;
+    align-items: center;
+    font-family: 'Fira Code', Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 500;
+    margin-right: 30px;    
+}
+.action:before{
+    content:"" ;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-color: #9400ff;
+    margin-right: 10px;
+}
