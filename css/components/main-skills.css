@@ -1,0 +1,16 @@
+.main-skill {
+    font-family: 'Press Start 2p', 'Fira Code', Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #fff;
+    display: flex;
+}
+
+.main-skill .icon{
+    margin-right: 25px;
+}
+
+.main-skill .right{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+}
